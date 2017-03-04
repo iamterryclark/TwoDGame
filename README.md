@@ -1,10 +1,17 @@
 #OSC Asteroids Style Game (Mac Only)
 This is a game build with openFrameworks to develop my knowledge of C++.
 
+It currently uses the following C++ concepts:
+- Inheritence
+- Virtual Functions
+- A Singleton
+- SuperCalaFradga*BASIC* Autonomous Agent Theory
+- *more to follow*
+
 To run this game you need to have the following software & ofAddons:
 
 - [TouchOSC](https://hexler.net/software/touchosc)
-This is so that you can load the controller onto a phone. *currently only layout is iPhone 5* (Feel free to create your own layouts)
+This is so that you can load the controller onto a phone. *currently only layout is iPhone 5* (Feel free to create your own layouts). The controller is located in the bin/data folder of this project.
 
 - ofxOsc
 This already comes with openFrameworks but just make sure this is in the openFrameworks addons folder.
